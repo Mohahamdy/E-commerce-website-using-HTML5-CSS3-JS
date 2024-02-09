@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQq0RDpDg0UZyun_dD-C8F90Vd_7LO0Ll1yA&usqp=CAU",
+      "name": "Classic White T-Shirt",
+      "price": 19.99,
+      "category": "T-shirts",
+      "description": "A timeless wardrobe staple, the Classic White T-Shirt is crafted from premium cotton for a soft and comfortable feel. This versatile piece is perfect for casual days and can be paired with jeans or shorts. Available in sizes S, M, L, and XL. Color: White. Rating: 4.5."
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkE8SYD-sN6JJM08vBjx-f4n_DgWdTHpwDZZrK2qmI02OGJPNe-TnIFWmqNR3lCATD-M4&usqp=CAU",
+      "name": "Slim Fit Blue Jeans",
+      "price": 39.99,
+      "category": "Jeans",
+      "description": "Achieve a modern and sleek look with our Slim Fit Blue Jeans. Made from high-quality denim, these jeans offer both style and comfort. The slim fit design complements various outfits. Available in sizes 28, 30, 32, and 34. Color: Blue. Rating: 4.2."
+    },
+    {
+      "id": 3,
+      "img": "https://m.media-amazon.com/images/I/61RArrUOGbL._AC_SL1500_.jpg",
+      "name": "Hooded Grey Sweatshirt",
+      "price": 29.99,
+      "category": "Sweatshirts",
+      "description": "Stay warm and stylish with our Hooded Grey Sweatshirt. Crafted from a blend of cotton and polyester, this sweatshirt provides comfort and durability. The hood adds an extra layer of coziness. Available in sizes S, M, L, and XL. Color: Grey. Rating: 4.0."
+    },
+    {
+      "id": 4,
+      "img": "https://i5.walmartimages.com/asr/de8a2394-bab6-4c64-8d81-820dfd2588d3.5cf554c120b4ea17d572c418c2aea29b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "name": "Leather Jacket",
+      "price": 49.99,
+      "category": "Jackets",
+      "description": "Make a bold statement with our Leather Jacket. This jacket is made from genuine leather and features a classic design. Ideal for adding a touch of edge to your outfit. Available in sizes S, M, L, and XL. Color: Black. Rating: 4.8."
+    },
+    {
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl4xkLt44A2WSrTOZiOxmmhvMW-CPMpY4vp_RVv_6pxyjOQxg9FwbZoET4KxA3ppuZcg&usqp=CAU",
+      "name": "Graphic Print T-Shirt",
+      "price": 24.99,
+      "category": "T-shirts",
+      "description": "Express your unique style with our Graphic Print T-Shirt. The eye-catching design adds a playful touch to your wardrobe. Made from soft cotton for comfort. Available in sizes S, M, L, and XL. Color: Various prints. Rating: 4.6."
+    },
+    {
+      "id": 6,
+      "img": "https://media.tagsweekly.com/images/429/500/4014PL-481E_whitney.jpg",
+      "name": "Straight Leg Black Jeans",
+      "price": 44.99,
+      "category": "Jeans",
+      "description": "Embrace a sleek and modern look with our Straight Leg Black Jeans. The timeless black color and straight leg cut make these jeans versatile for various occasions. Available in sizes 28, 30, 32, and 34. Color: Black. Rating: 4.4."
+    },
+    {
+      "id": 7,
+      "img": "https://media.karousell.com/media/photos/products/2023/1/21/sweatshirt_1674304567_fc6e32d2_progressive.jpg",
+      "name": "Quarter-Zip Sweatshirt",
+      "price": 34.99,
+      "category": "Sweatshirts",
+      "description": "Elevate your casual style with our Quarter-Zip Sweatshirt. The quarter-zip design adds a contemporary touch, and the sweatshirt is crafted for both comfort and style. Available in sizes S, M, L, and XL. Color: Various colors. Rating: 4.2."
+    },
+    {
+      "id": 8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_hpdOrEOv0pTWM5xFlKYleZSV75HMzsqthe8b6MNXDWJScCbeFEjExET5kvGJcQubnk&usqp=CAU",
+      "name": "Bomber Jacket",
+      "price": 59.99,
+      "category": "Jackets",
+      "description": "Stay on-trend with our Bomber Jacket. This jacket features a classic bomber style with a zip front and ribbed cuffs. Perfect for adding a cool and casual vibe to your look. Available in sizes S, M, L, and XL. Color: Olive. Rating: 4.7."
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0nGokjw5D6WN52LXxl91hMWFa9GqItYb2_VsHgcwhsVDlZ08l9GRf2kjZoyZXU8Vtq4&usqp=CAU",
+      "name": "Striped Polo T-Shirt",
+      "price": 22.99,
+      "category": "T-shirts",
+      "description": "Upgrade your casual wardrobe with our Striped Polo T-Shirt. The classic polo design is enhanced with stylish stripes for a polished look. Made from breathable fabric for all-day comfort. Available in sizes S, M, L, and XL. Color: Navy/White. Rating: 4.3."
+    },
+    {
+      "id": 10,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3NAEVnBjzKNE82egXoIqfTsrNOptaIGPjVkQWea0_uikS80ap_k6Ro5WpofnSgWhRL0&usqp=CAU",
+      "name": "Ripped Skinny Jeans",
+      "price": 49.99,
+      "category": "Jeans",
+      "description": "Make a bold statement with our Ripped Skinny Jeans. The distressed details and skinny fit create an edgy and fashionable look. Crafted from high-quality denim for durability. Available in sizes 28, 30, 32, and 34. Color: Blue. Rating: 4.5."
+    },
+    {
+      "id": 11,
+      "img": "https://i.ebayimg.com/images/g/znkAAOSwGqBjTl1n/s-l1600.jpg",
+      "name": "Crewneck Sweatshirt",
+      "price": 26.99,
+      "category": "Sweatshirts",
+      "description": "Stay cozy in our Crewneck Sweatshirt. Made from a soft and comfortable fabric, this sweatshirt is perfect for casual outings or lounging at home. Available in sizes S, M, L, and XL. Color: Heather Grey. Rating: 4.1."
+    },
+    {
+      "id": 12,
+      "img": "https://m.media-amazon.com/images/I/41fwDWWs2hL._SR240,220_.jpg",
+      "name": "Denim Trucker Jacket",
+      "price": 54.99,
+      "category": "Jackets",
+      "description": "Add a touch of casual coolness with our Denim Trucker Jacket. This jacket is a timeless piece that pairs well with various outfits. Made from durable denim for lasting style. Available in sizes S, M, L, and XL. Color: Blue. Rating: 4.6."
+    },
+    {
+      "id": 13,
+      "img": "https://d2ntqahvvwl3d4.cloudfront.net/catalog/product/cache/afbc6ead962d7038f55c866f367c7c94/7/9/79161-590-helly-hansen-manchester-t-shirt-marine-blauw.jpg",
+      "name": "V-Neck Pocket T-Shirt",
+      "price": 18.99,
+      "category": "T-shirts",
+      "description": "Upgrade your basics with our V-Neck Pocket T-Shirt. The v-neck design and chest pocket add a stylish touch to this essential piece. Made from soft and breathable fabric for all-day comfort. Available in sizes S, M, L, and XL. Color: Black. Rating: 4.0."
+    },
+    {
+      "id": 14,
+      "img": "https://images.lvrcdn.com/Big77I/4CR/011_8012fbb8-f705-4e9e-b4ee-92d01bfc2e0a.JPG",
+      "name": "Bootcut Dark Wash Jeans",
+      "price": 42.99,
+      "category": "Jeans",
+      "description": "Achieve a classic and flattering look with our Bootcut Dark Wash Jeans. The dark wash and bootcut silhouette make these jeans versatile for various occasions. Available in sizes 28, 30, 32, and 34. Color: Dark Wash. Rating: 4.4."
+    },
+    {
+      "id": 15,
+      "img": "https://kixbox.ru/cdn/shop/products/c7cf746b85059c2e0afc6af765bdac1c_fbe790b2-7da3-481d-86c6-5c889e75ec79_1000x1000.jpg?v=1704897804",
+      "name": "French Terry Hoodie",
+      "price": 31.99,
+      "category": "Sweatshirts",
+      "description": "Stay comfortable and stylish in our French Terry Hoodie. The hoodie is crafted from soft French terry fabric, making it a cozy choice for casual days. Available in sizes S, M, L, and XL. Color: Charcoal. Rating: 4.2."
+    },
+    {
+      "id": 16,
+      "img": "https://i5.walmartimages.com/asr/511e10a0-396c-4e0f-8824-975ed26544e7.b0f8c1a82b63feb755d279ba76b6da7f.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFFU",
+      "name": "Quilted Leather Jacket",
+      "price": 69.99,
+      "category": "Jackets",
+      "description": "Elevate your outerwear collection with our Quilted Leather Jacket. The quilted details and genuine leather create a luxurious and fashionable look. Available in sizes S, M, L, and XL. Color: Brown. Rating: 4.9."
+    },
+    {
+      "id": 17,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqltiz3gUi-1gQ1f3r5NQAdWFCoIeW1-RQnhbf4MIWg81FppNvXYZBkZ3vTzAY4puyQA&usqp=CAU",
+      "name": "Vintage Logo T-Shirt",
+      "price": 21.99,
+      "category": "T-shirts",
+      "description": "Showcase retro vibes with our Vintage Logo T-Shirt. The vintage-inspired logo adds a nostalgic touch to your casual look. Made from soft cotton for comfort. Available in sizes S, M, L, and XL. Color: Grey. Rating: 4.1."
+    },
+    {
+      "id": 18,
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/10/353808686/NA/PH/PD/117679505/whatsapp-image-2023-10-18-at-4-29-02-pm-500x500.jpeg",
+      "name": "Distressed Boyfriend Jeans",
+      "price": 46.99,
+      "category": "Jeans",
+      "description": "Add a trendy edge to your denim collection with our Distressed Boyfriend Jeans. The distressed details and relaxed fit make these jeans a stylish choice. Available in sizes 28, 30, 32, and 34. Color: Distressed Blue. Rating: 4.3."
+    },
+    {
+      "id": 19,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKp-bsEwh-O_gK9GByjaRrHVLk6yjWB2e_A&usqp=CAU",
+      "name": "Full-Zip Hooded Sweatshirt",
+      "price": 36.99,
+      "category": "Sweatshirts",
+      "description": "Stay cozy on chilly days with our Full-Zip Hooded Sweatshirt. The full-zip design and hood provide extra warmth, and the sweatshirt is crafted for maximum comfort. Available in sizes S, M, L, and XL. Color: Navy. Rating: 4.4."
+    },
+    {
+      "id": 20,
+      "img": "https://m.media-amazon.com/images/I/71YTJaT83HL._AC_UF1000,1000_QL80_.jpg",
+      "name": "Parka Jacket",
+      "price": 79.99,
+      "category": "Jackets",
+      "description": "Brave the elements in style with our Parka Jacket. The parka design and faux fur trim add a touch of sophistication to this winter essential. Available in sizes S, M, L, and XL. Color: Olive. Rating: 4.7."
+    },
+    {
+      "id": 21,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFfcd40hUqqJKWzy3QRT0iPpexEHxSZ9wcLYlzzIGz69dWX1SggHt5lROF1psqe8Jtys&usqp=CAU",
+      "name": "Pocket Detail T-Shirt",
+      "price": 23.99,
+      "category": "T-shirts",
+      "description": "Upgrade your casual look with our Pocket Detail T-Shirt. The pocket adds a stylish element to this classic t-shirt. Made from soft cotton for comfort. Available in sizes S, M, L, and XL. Color: Olive. Rating: 4.2."
+    },
+    {
+      "id": 22,
+      "img": "https://i.ebayimg.com/images/g/PdwAAOSwRnFicw~u/s-l1200.webp",
+      "name": "High-Rise Skinny Jeans",
+      "price": 47.99,
+      "category": "Jeans",
+      "description": "Achieve a fashionable and flattering look with our High-Rise Skinny Jeans. The high-rise design and skinny fit create a modern silhouette. Available in sizes 28, 30, 32, and 34. Color: Black. Rating: 4.6."
+    },
+    {
+      "id": 23,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3the5ymFUWZG-WcHBLTzfPtVnAyJR42EoYw&usqp=CAU",
+      "name": "Sherpa-Lined Sweatshirt",
+      "price": 39.99,
+      "category": "Sweatshirts",
+      "description": "Stay warm and cozy with our Sherpa-Lined Sweatshirt. The sherpa lining adds extra warmth, making it perfect for colder days. Available in sizes S, M, L, and XL. Color: Burgundy. Rating: 4.5."
+    },
+    {
+      "id": 24,
+      "img": "https://i.ebayimg.com/images/g/ECMAAOSw7IpjwmgW/s-l1200.jpg",
+      "name": "Faux Fur Trimmed Jacket",
+      "price": 89.99,
+      "category": "Jackets",
+      "description": "Make a statement with our Faux Fur Trimmed Jacket. The faux fur trim adds a luxurious touch to this stylish jacket. Ideal for staying warm and fashionable. Available in sizes S, M, L, and XL. Color: Black. Rating: 4.8."
+    }
+  ]
+}
