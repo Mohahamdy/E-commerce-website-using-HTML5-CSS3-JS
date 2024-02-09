@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function validateForm() {
     const fullName = document.getElementById("fullName").value;
     const email = document.getElementById("email").value;
-
+    const message = document.getElementById("message").value;
     // Reset previous error messages
     resetErrorMessages();
 
@@ -44,10 +44,25 @@ document.addEventListener("DOMContentLoaded", function () {
       return false;
     }
 
+    // Check if full name contains numbers
+    if (/\d/.test(fullName)) {
+      displayErrorMessage(
+        "fullNameError",
+        "Full name must not contain any numbers."
+      );
+      return false;
+    }
+
     // Validate Email
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!emailRegex.test(email)) {
       displayErrorMessage("emailError", "Please enter a valid email address.");
+      return false;
+    }
+
+    // Validate Message
+    if (message.trim() === "") {
+      displayErrorMessage("messageError", "Please enter your message.");
       return false;
     }
 
